@@ -1,1 +1,1 @@
-# MoSy
+# MoSy Repository for studies
